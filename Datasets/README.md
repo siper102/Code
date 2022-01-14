@@ -3,4 +3,4 @@
 
 2. Die Daten der Datei Temperatur stammen vom Umweltbundesamt, welches die Daten unter https://www.umweltbundesamt.de/sites/default/files/medien/384/bilder/dateien/de-en_indikator_klim-02_globale-lufttemperatur_2021-02-03_0.xlsx zur Verfügung stellt.
 
-3. Die Daten der Datei Solar_by_Hour stammen von der Solaranlage meines Nachbers.
+3. Die Daten der Datei Solar_by_Hour stammen von der Solaranlage meines Nachbars.
